@@ -9,7 +9,9 @@ Using a drop down box multiple (up to 5) sensor plots can be shown in the browse
 KNOWN ISSUES:
 Removing the sensors in any order other than the order you added causes dash to fail. This seems to be a known Dash Issue.
 
-Future steps will be to use RabbitMQ to handle passing sensor data to get more familiar with message brokers and distributed systems.
+TO DO:
+1. Make a require file for easy environment setup
+2. Future steps will be to use RabbitMQ to handle passing sensor data to get more familiar with message brokers and distributed systems.
 
 
 
