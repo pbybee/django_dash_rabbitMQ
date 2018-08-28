@@ -11,7 +11,10 @@ Removing the sensors in any order other than the order you added causes dash to 
 
 TO DO:
 1. Make a require file for easy environment setup
-2. Future steps will be to use RabbitMQ to handle passing sensor data to get more familiar with message brokers and distributed systems.
+2. Add a Postgresql database to store sensor data
+3. Use RabbitMQ to handle passing sensor data
+4. Try performing some manipulations to the sensor data or add another app to do computational work
+5. Add Celery to handle multiple users doing multiple task requests
 
 
 
